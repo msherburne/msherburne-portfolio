@@ -27,7 +27,7 @@ li {
 }
 
 li:hover {
-  background-image: url("/resources/button.webp");
+  background-image: url(".././resources/button.webp");
   background-size: 100% 100%;
   color: #27262c;
   animation: spring 300ms ease-out;
